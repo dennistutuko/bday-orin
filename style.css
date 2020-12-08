@@ -1,0 +1,40 @@
+html h1 {
+  font-size: 1.8em;
+}
+
+html p {
+  padding: 1em 0px;
+}
+
+.header-right {
+  background-color: #6c6b59;
+  text-align: center;
+  padding: 5em 2em;
+  color: white;
+  height: auto;
+  margin: 0;
+}
+
+.header-left {
+  padding: 0px;
+}
+
+div img {
+  width: 100%;
+  height: auto;
+}
+
+.center {
+  text-align: center;
+  padding: 2.5em;
+}
+
+.gifts {
+  text-align: center;
+  padding: 2.5em;
+  background-color: #f0e9e3;
+}
+
+.gift {
+  margin: 1em;
+}
